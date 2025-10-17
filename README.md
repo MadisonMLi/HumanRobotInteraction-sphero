@@ -5,7 +5,6 @@
 
 - Explore different social interaction patterns
 
-# HRI-sphero
 
 `boo_interaction.py` - Game-based interaction triggered by kicks/collisions with light-sensitive behavior
 `gentle_touch.py` - Tap detection interaction with smile response
