@@ -1,1 +1,2 @@
 # HumanRobotInteraction-sphero
+# HRI-sphero
