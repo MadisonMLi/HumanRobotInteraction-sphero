@@ -1,4 +1,4 @@
-# HumanRobotInteraction-sphero
+# Human Robot Interaction-sphero design
 - Create a robot personality ("Boo") with responsive behaviors
 
 - Implement multiple interaction modalities (visual, audio, movement, touch)
