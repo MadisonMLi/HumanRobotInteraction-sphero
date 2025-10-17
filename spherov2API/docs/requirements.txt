@@ -1,0 +1,4 @@
+m2r2
+numpy
+transforms3d
+sphinx-rtd-theme
